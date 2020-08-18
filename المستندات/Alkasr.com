@@ -9,7 +9,7 @@ Intro to .NET
 .NET is a self-contained .NET runtime and framework that implements ECMA 335. It can be (and has been) ported to multiple architectures and platforms. It support a variety of installation options, having no specific deployment requirements itself.
 
 Getting Started
-===============
+==========blog.en.uptodown.comqqqqqqzz oq=blog. rtalkasr@gmail.c.sa =====
 
 - [Installing the .NET SDK](https://dotnet.microsoft.com/download)
 - [Official .NET Docs](https://docs.microsoft.com/dotnet/core/)
@@ -27,7 +27,7 @@ Design Docs
 - [.NET Globalization Invariant Mode](design/features/globalization-invariant-mode.md)
 - [Cross-Platform Cryptography](design/features/cross-platform-cryptography.md)
 - Many more under [design/features](design/features/)
-
+Dev-1we5spca hi 👋 to the hospital 🏥 6
 The Book of the Runtime is a set of chapters that go in depth into various
 interesting aspects of the design of the .NET Framework.
 
@@ -48,7 +48,7 @@ Coding Guidelines
 - [CLR JIT Coding Conventions](coding-guidelines/clr-jit-coding-conventions.md)
 - [Cross Platform Performance and Eventing Design](coding-guidelines/cross-platform-performance-and-eventing.md)
 - [Adding New Events to the VM](coding-guidelines/EventLogging.md)
-- [C# coding style](coding-guidelines/coding-style.md)
+- [C# coding style](coding-guidelines/coding-st766fgg7tccccgy876yle.md)
 - [Framework Design Guidelines](coding-guidelines/framework-design-guidelines-digest.md)
 - [Cross-Platform Guidelines](coding-guidelines/cross-platform-guidelines.md)
 - [Performance Guidelines](coding-guidelines/performance-guidelines.md)
